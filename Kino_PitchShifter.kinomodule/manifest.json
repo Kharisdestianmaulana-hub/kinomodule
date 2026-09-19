@@ -1,0 +1,8 @@
+{
+  "id": "com.kino.audio.pitch",
+  "name": "Pitch Shifter",
+  "version": "1.0.0",
+  "author": "Kino Sound",
+  "type": "audio",
+  "minKinoVersion": "1.0.0"
+}

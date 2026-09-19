@@ -1,0 +1,8 @@
+{
+  "id": "com.kino.color.tealorange",
+  "name": "Teal & Orange LUT",
+  "version": "1.0.0",
+  "author": "Kino Studio",
+  "type": "color",
+  "minKinoVersion": "1.0.0"
+}

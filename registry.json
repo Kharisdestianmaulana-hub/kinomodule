@@ -18,6 +18,51 @@
       "author": "Kino Team",
       "description": "Teks bergaya lampu neon yang berpendar dan berkedip.",
       "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_NeonText.kinomodule.zip"
+    },
+    {
+      "id": "com.kino.transition.whip",
+      "name": "Whip Pan Transition",
+      "type": "transition",
+      "version": "1.0.0",
+      "author": "Kino Team",
+      "description": "Transisi kamera bergeser cepat dengan efek motion blur yang dinamis.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_WhipPanTransition.kinomodule.zip"
+    },
+    {
+      "id": "com.kino.color.tealorange",
+      "name": "Teal & Orange LUT",
+      "type": "color",
+      "version": "1.0.0",
+      "author": "Kino Studio",
+      "description": "Template pewarnaan gaya Hollywood (Cinematic Teal & Orange) untuk tampilan film bioskop.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_TealAndOrangeLUT.kinomodule.zip"
+    },
+    {
+      "id": "com.kino.audio.pitch",
+      "name": "Pitch Shifter",
+      "type": "audio",
+      "version": "1.0.0",
+      "author": "Kino Sound",
+      "description": "Mengubah nada suara menjadi lebih berat (Darth Vader) atau lebih tinggi (Chipmunk).",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_PitchShifter.kinomodule.zip"
+    },
+    {
+      "id": "com.kino.export.tiktok",
+      "name": "TikTok / Reels Preset",
+      "type": "export",
+      "version": "1.0.0",
+      "author": "Kino Social",
+      "description": "Pengaturan otomatis untuk ekspor video vertikal 1080x1920 yang dioptimalkan untuk TikTok, IG Reels, dan YouTube Shorts.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_TikTokReelsPreset.kinomodule.zip"
+    },
+    {
+      "id": "com.kino.title.hormozi",
+      "name": "Alex Hormozi Captions",
+      "type": "title",
+      "version": "1.0.0",
+      "author": "Kino Social",
+      "description": "Animasi teks pop-up kata per kata dengan warna bergantian (Kuning/Hijau) khas konten kreator.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_AlexHormoziCaptions.kinomodule.zip"
     }
   ]
 }
