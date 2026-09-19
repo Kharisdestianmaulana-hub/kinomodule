@@ -1,6 +1,6 @@
 {
-  "id": "com.kino.audio.pitch",
-  "name": "Pitch Shifter",
+  "id": "com.kino.module.audio",
+  "name": "Pro Audio DSP",
   "version": "1.0.0",
   "author": "Kino Sound",
   "type": "audio",

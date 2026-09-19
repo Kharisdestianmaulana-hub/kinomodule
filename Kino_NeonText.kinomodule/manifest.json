@@ -1,9 +1,0 @@
-{
-  "id": "com.kino.title.neon",
-  "name": "Neon Sign Title",
-  "version": "1.0.0",
-  "author": "Kino Team",
-  "type": "title",
-  "description": "Teks bergaya lampu neon yang berpendar dan berkedip.",
-  "minKinoVersion": "1.0.0"
-}

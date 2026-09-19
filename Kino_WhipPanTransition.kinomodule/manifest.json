@@ -1,8 +1,0 @@
-{
-  "id": "com.kino.transition.whip",
-  "name": "Whip Pan Transition",
-  "version": "1.0.0",
-  "author": "Kino Team",
-  "type": "transition",
-  "minKinoVersion": "1.0.0"
-}

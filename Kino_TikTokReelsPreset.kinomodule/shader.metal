@@ -1,1 +1,0 @@
-// Kino Metal Shader\n

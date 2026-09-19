@@ -1,6 +1,6 @@
 {
-  "id": "com.kino.color.tealorange",
-  "name": "Teal & Orange LUT",
+  "id": "com.kino.module.color",
+  "name": "Professional Color Grading",
   "version": "1.0.0",
   "author": "Kino Studio",
   "type": "color",

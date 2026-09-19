@@ -1,8 +1,0 @@
-{
-  "id": "com.kino.export.tiktok",
-  "name": "TikTok / Reels Preset",
-  "version": "1.0.0",
-  "author": "Kino Social",
-  "type": "export",
-  "minKinoVersion": "1.0.0"
-}

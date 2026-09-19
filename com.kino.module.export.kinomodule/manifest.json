@@ -1,0 +1,8 @@
+{
+  "id": "com.kino.module.export",
+  "name": "Advanced Export Engine",
+  "version": "1.0.0",
+  "author": "Kino Core Team",
+  "type": "export",
+  "minKinoVersion": "1.0.0"
+}

@@ -2,67 +2,88 @@
   "version": "1.0.0",
   "modules": [
     {
-      "id": "com.kino.effect.rgbglitch",
-      "name": "RGB Glitch",
+      "id": "com.kino.module.effects",
+      "name": "Kino Visual Effects Pack",
       "type": "effect",
       "version": "1.0.0",
-      "author": "Kino Team",
-      "description": "Menambahkan efek distorsi warna RGB bergeser ala VHS retro.",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_RGBGlitch.kinomodule.zip"
+      "author": "Kino Core Team",
+      "description": "Koleksi ratusan efek visual profesional berbasis CoreImage Metal. Termasuk retro, distorsi, stylize, dan blur tingkat mahir.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/com.kino.module.effects.kinomodule.zip",
+      "templates": [
+        "Retro: VHS Glitch, CRT Scanlines, Old Film, Sepia",
+        "Lensa: Lens Flare, Light Leaks, Chromatic Aberration, Vignette",
+        "Glow & Style: Neon Glow, Edge Detection, Drop Shadow",
+        "Utilitas: Chroma Key (Green Screen), Motion Blur, Sharpen"
+      ]
     },
     {
-      "id": "com.kino.title.neon",
-      "name": "Neon Sign Title",
-      "type": "title",
-      "version": "1.0.0",
-      "author": "Kino Team",
-      "description": "Teks bergaya lampu neon yang berpendar dan berkedip.",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_NeonText.kinomodule.zip"
-    },
-    {
-      "id": "com.kino.transition.whip",
-      "name": "Whip Pan Transition",
+      "id": "com.kino.module.transitions",
+      "name": "Kino Cinematic Transitions",
       "type": "transition",
       "version": "1.0.0",
-      "author": "Kino Team",
-      "description": "Transisi kamera bergeser cepat dengan efek motion blur yang dinamis.",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_WhipPanTransition.kinomodule.zip"
+      "author": "Kino Core Team",
+      "description": "Paket transisi pergerakan kamera dan perpindahan klip yang sangat mulus dengan kurva easing kustom.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/com.kino.module.transitions.kinomodule.zip",
+      "templates": [
+        "Klasik: Cross Dissolve, Dip to Black/White, Fade",
+        "Motion: Whip Pan, Push/Slide, Zoom Blur, Spin/Rotate",
+        "Kreatif: Luma Fade, Glitch, Flash, Page Peel, Ink Drop"
+      ]
     },
     {
-      "id": "com.kino.color.tealorange",
-      "name": "Teal & Orange LUT",
+      "id": "com.kino.module.titles",
+      "name": "Kino Titles & Typography",
+      "type": "title",
+      "version": "1.0.0",
+      "author": "Kino Core Team",
+      "description": "Teks animasi tingkat mahir untuk kebutuhan Konten Kreator, YouTube, dan TV Broadcast.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/com.kino.module.titles.kinomodule.zip",
+      "templates": [
+        "Creator: Alex Hormozi Pop-up Captions, Subscribe Button, Chat Pop-up",
+        "Broadcast: Lower Thirds, News Tickers, Cinematic Titles",
+        "Creative: Kinetic Typography, Neon Sign Text, Typewriter"
+      ]
+    },
+    {
+      "id": "com.kino.module.color",
+      "name": "Professional Color Grading",
       "type": "color",
       "version": "1.0.0",
       "author": "Kino Studio",
-      "description": "Template pewarnaan gaya Hollywood (Cinematic Teal & Orange) untuk tampilan film bioskop.",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_TealAndOrangeLUT.kinomodule.zip"
+      "description": "Modul manipulasi warna presisi tinggi dan LUT Engine untuk menghasilkan tampilan kelas bioskop.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/com.kino.module.color.kinomodule.zip",
+      "templates": [
+        "LUTs: Cinematic, Teal & Orange, Vintage, Moody Dark, Bright & Airy",
+        "Tools: Color Wheels, RGB Curves, HSL Qualifiers, White Balance"
+      ]
     },
     {
-      "id": "com.kino.audio.pitch",
-      "name": "Pitch Shifter",
+      "id": "com.kino.module.audio",
+      "name": "Pro Audio DSP",
       "type": "audio",
       "version": "1.0.0",
       "author": "Kino Sound",
-      "description": "Mengubah nada suara menjadi lebih berat (Darth Vader) atau lebih tinggi (Chipmunk).",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_PitchShifter.kinomodule.zip"
+      "description": "Pengolah sinyal suara digital untuk membersihkan dan memanipulasi audio dengan mudah.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/com.kino.module.audio.kinomodule.zip",
+      "templates": [
+        "Clean-up: Voice Isolator (AI), De-Esser, Click Removal",
+        "FX: Pitch Shifter, Telephone/Radio EQ, Echo & Reverb",
+        "Mastering: 10-Band Graphic EQ, Compressor, Limiter"
+      ]
     },
     {
-      "id": "com.kino.export.tiktok",
-      "name": "TikTok / Reels Preset",
+      "id": "com.kino.module.export",
+      "name": "Advanced Export Engine",
       "type": "export",
       "version": "1.0.0",
-      "author": "Kino Social",
-      "description": "Pengaturan otomatis untuk ekspor video vertikal 1080x1920 yang dioptimalkan untuk TikTok, IG Reels, dan YouTube Shorts.",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_TikTokReelsPreset.kinomodule.zip"
-    },
-    {
-      "id": "com.kino.title.hormozi",
-      "name": "Alex Hormozi Captions",
-      "type": "title",
-      "version": "1.0.0",
-      "author": "Kino Social",
-      "description": "Animasi teks pop-up kata per kata dengan warna bergantian (Kuning/Hijau) khas konten kreator.",
-      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_AlexHormoziCaptions.kinomodule.zip"
+      "author": "Kino Core Team",
+      "description": "Preset rendering dan encoding tingkat lanjut untuk platform modern.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/com.kino.module.export.kinomodule.zip",
+      "templates": [
+        "Social Media: TikTok/Reels/Shorts (Vertical 1080x1920)",
+        "Web: YouTube 4K (High Bitrate), Twitter (Low Size)",
+        "Format: HEVC/H.265 Hardware Accelerated, H.264, Audio-Only"
+      ]
     }
   ]
 }

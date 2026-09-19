@@ -1,0 +1,8 @@
+{
+  "id": "com.kino.module.titles",
+  "name": "Kino Titles & Typography",
+  "version": "1.0.0",
+  "author": "Kino Core Team",
+  "type": "title",
+  "minKinoVersion": "1.0.0"
+}
