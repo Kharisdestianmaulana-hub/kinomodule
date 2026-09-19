@@ -1,0 +1,9 @@
+{
+  "id": "com.kino.effect.rgbglitch",
+  "name": "RGB Glitch",
+  "version": "1.0.0",
+  "author": "Kino Team",
+  "type": "effect",
+  "description": "Menambahkan efek distorsi warna RGB bergeser ala VHS retro.",
+  "minKinoVersion": "1.0.0"
+}

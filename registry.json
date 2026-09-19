@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "modules": [
+    {
+      "id": "com.kino.effect.rgbglitch",
+      "name": "RGB Glitch",
+      "type": "effect",
+      "version": "1.0.0",
+      "author": "Kino Team",
+      "description": "Menambahkan efek distorsi warna RGB bergeser ala VHS retro.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_RGBGlitch.kinomodule.zip"
+    },
+    {
+      "id": "com.kino.title.neon",
+      "name": "Neon Sign Title",
+      "type": "title",
+      "version": "1.0.0",
+      "author": "Kino Team",
+      "description": "Teks bergaya lampu neon yang berpendar dan berkedip.",
+      "downloadURL": "https://raw.githubusercontent.com/Kharisdestianmaulana-hub/kinomodule/main/Kino_NeonText.kinomodule.zip"
+    }
+  ]
+}

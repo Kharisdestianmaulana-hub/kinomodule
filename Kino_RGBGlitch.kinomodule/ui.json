@@ -1,0 +1,24 @@
+{
+  "controls": [
+    {
+      "id": "intensity",
+      "type": "slider",
+      "label": "Intensity",
+      "min": 0.0,
+      "max": 100.0,
+      "default": 30.0
+    },
+    {
+      "id": "tintColor",
+      "type": "color",
+      "label": "Tint Color",
+      "default": "#00FF00"
+    },
+    {
+      "id": "enableScanlines",
+      "type": "toggle",
+      "label": "Enable Scanlines",
+      "default": true
+    }
+  ]
+}

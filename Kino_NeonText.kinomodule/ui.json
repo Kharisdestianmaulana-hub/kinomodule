@@ -1,0 +1,24 @@
+{
+  "controls": [
+    {
+      "id": "textContent",
+      "type": "textfield",
+      "label": "Text",
+      "default": "NEON VIBES"
+    },
+    {
+      "id": "neonColor",
+      "type": "color",
+      "label": "Neon Color",
+      "default": "#FF00FF"
+    },
+    {
+      "id": "flickerSpeed",
+      "type": "slider",
+      "label": "Flicker Speed",
+      "min": 0.0,
+      "max": 10.0,
+      "default": 2.5
+    }
+  ]
+}
